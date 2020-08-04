@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-ce443": {
+      "hosting": {
+        "now-ui-dashboard-pro-angular": [
+          "angular-ce443"
+        ]
+      }
+    }
+  }
+}
